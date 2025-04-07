@@ -1,5 +1,5 @@
 # 💫 About Me:
-I develop games for fun as hobby (for now)<br>currently working on game engine for text-based story games
+I develop games for fun as a hobby (for now)<br>currently working on game engine for text-based story games
 
 
 ## 🌐 Socials:
