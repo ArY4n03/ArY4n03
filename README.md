@@ -2,7 +2,7 @@
 Love to make games<br>Currently working on game engine for text based story mode games
 
 ## 🎮 My Games on Itch.io
-Check out my games here: [My Itch.io Page]((https://medhak.itch.io/)
+Check out my games here: ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)((https://medhak.itch.io/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan__603) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryansoy3@gmail.com) 
