@@ -1,5 +1,6 @@
 # 💫 About Me:
-Love to make games<br>Currently working on game engine for text based story mode games
+I'm a developer who loves building both games and desktop applications.
+I develop games mostly using Godot, and sometimes I switch to desktop dev mode with Python.
 
 ## 🎮 My Games on Itch.io
 Check out my games -> https://medhak.itch.io/
