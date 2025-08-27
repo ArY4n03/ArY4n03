@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hey there! I’m a developer who loves experimenting and building cool stuff.
+
 **🎮 Game Dev:** Mostly cooking up games in Godot, from fun mini-games to bigger projects.
 
 **🖥 Desktop Apps:** I build handy tools and apps using Python (Tkinter, CustomTkinter).
