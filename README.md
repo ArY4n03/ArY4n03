@@ -6,7 +6,7 @@ Hey there! I’m a developer who loves experimenting and building cool stuff.
 
 **🌐 Web Stuff:** Can spin up basic React.js web apps when needed.
 
-**🤖 AI/ML:** Into making AI agents, ML models, and data-cleaning tools — mixing a bit of brainpower into my code.
+**🤖 AI/ML:** Into making AI agents, ML models.
 
 ## 🎮 My Games on Itch.io
 Check out my games -> https://medhak.itch.io/
