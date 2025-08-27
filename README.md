@@ -1,6 +1,12 @@
 # 💫 About Me:
-I'm a developer who loves building both games and desktop applications.
-I develop games mostly using Godot, and sometimes I switch to desktop dev mode with Python.
+Hey there! I’m a developer who loves experimenting and building cool stuff.
+**🎮 Game Dev:** Mostly cooking up games in Godot, from fun mini-games to bigger projects.
+
+**🖥 Desktop Apps:** I build handy tools and apps using Python (Tkinter, CustomTkinter).
+
+**🌐 Web Stuff:** Can spin up basic React.js web apps when needed.
+
+**🤖 AI/ML:** Into making AI agents, ML models, and data-cleaning tools — mixing a bit of brainpower into my code.
 
 ## 🎮 My Games on Itch.io
 Check out my games -> https://medhak.itch.io/
