@@ -11,6 +11,8 @@ Hey there! I’m a developer who loves experimenting and building cool stuff.
 
 ## 🎮 My Games on Itch.io
 Check out my games -> https://medhak.itch.io/
+## 🎮 My Games on PlayStore
+Check out my games -> https://play.google.com/store/apps/developer?id=MedhakGames
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryansoy3@gmail.com) 
